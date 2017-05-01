@@ -1,5 +1,6 @@
 README Tic-Tac-Toe
 Written by Matthew Shulman
+PodSixNet - https://github.com/chr15m/PodSixNet
 Python3
 
 First install the dependencies in terminal with "pip3 install -r requirements.txt"
